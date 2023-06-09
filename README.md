@@ -1,8 +1,8 @@
 # Task Record System
 ## Authors
-- Rafael Suñga
-- Jericho Paolo Dolendo
-- Angel Alexis Festin
+- Dolendo, Jericho Paolo
+- Festin, Angel Alexis
+- Suñga, Rafael
 ## Description
 This is a tasklisting application wherein you can lists tasks with deadlines and group them in categories.
 ## Usage
